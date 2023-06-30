@@ -1,0 +1,42 @@
+.title {
+    font-weight: 100;
+    font-size: 12px;
+    /* text-align: center; */
+    color: darkgrey;
+}
+
+.footer {
+    background-color: #eef0f1;
+    /* width: 100%; */
+    /* max-width: 800px;
+    position: absolute; */
+    overflow: hidden;
+    /* margin-top: 5px; */
+    /* margin-bottom: 40px; */
+    /* padding: 0 0;
+    clear: both; */
+  }
+
+.link {
+    font-size: "1em";
+    color: "#fff";
+}
+
+.copylight {
+    color: darkgrey;
+    font-size: 0.8rem;
+}
+
+.hr {
+    width: 80%;
+    margin-bottom: 2rem;
+    border-top: 1px solid #cfd8dc;
+}
+
+.snsIcon {
+    /* color: #90a4ae; */
+    margin-bottom: 20px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
